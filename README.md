@@ -14,11 +14,17 @@ Built and automated a python ETL process to extract real estate data from Zillow
 ### 4. Data Analysis
 <hr>
 
-## Dags - Workflow (Airflow)
+### Dags - Workflow (Airflow)
 ![image](https://github.com/Harsh-812/Zillow-Data-Analytics-Pipeline/assets/135538639/d1cf43a1-79a6-4c1f-986a-739cad90f32a)
 <hr>
 
-## Visualization - AWS QwickSight
+### Visualization - AWS QwickSight
 ![simpleDashboardZillow](https://github.com/Harsh-812/Zillow-Data-Analytics-Pipeline/assets/135538639/20d12ab2-bff7-41d1-9312-df14bba90138)
+<hr>
+
+### Conclusion
+This project provides a scalable and automated solution for Zillow data analytics using AWS services. By leveraging AWS Lambda, Amazon Redshift, and Apache Airflow, the pipeline ensures efficient data processing and insightful visualizations through Amazon QuickSight.
+
+
 
 
